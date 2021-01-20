@@ -1,0 +1,3 @@
+.vscode/
+var/db.sqlite
+vendor/
