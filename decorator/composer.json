@@ -1,0 +1,16 @@
+{
+  "name": "ld-web/decorator",
+  "description": "PHP example of the decorator pattern",
+  "authors": [
+    {
+      "name": "Lucas Delobelle",
+      "email": "lucas@ld-web.net"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
