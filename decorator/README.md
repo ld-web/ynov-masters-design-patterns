@@ -2,7 +2,7 @@
 
 ![Decorator](docs/decorator.png "Decorator")
 
-La **Decorator** est un design pattern structurel permettant d'étendre un comportement sans passer par l'héritage.
+Le **Decorator** est un design pattern structurel permettant d'étendre un comportement sans passer par l'héritage.
 
 A partir d'un contrat d'implémentation, représenté sur le diagramme ci-dessus par une interface, un decorator vient prendre en paramètre de son constructeur une instance concrète respectant le contrat.
 
