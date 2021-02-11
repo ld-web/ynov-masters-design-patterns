@@ -1,6 +1,6 @@
 # Adapter
 
-![Adapter](docs/Adapter.png "Adapter")
+![Adapter](docs/adapter.png "Adapter")
 
 L'**Adapter** est un design pattern structurel permettant, comme son nom l'indique, d'adapter l'interface d'un objet à une utilisation qu'on souhaite en faire.
 
