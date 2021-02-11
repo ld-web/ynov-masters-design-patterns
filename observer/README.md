@@ -2,7 +2,7 @@
 
 ![Observer](docs/observer.png "Observer")
 
-L'**Observer** est un design pattern structurel permettant de découpler l'exécution de plusieurs comportements.
+L'**Observer** est un design pattern comportemental permettant de découpler l'exécution de plusieurs comportements.
 
 Un **sujet** détient une référence à plusieurs **observers**, respectant tous un contrat d'implémentation.
 
