@@ -1,0 +1,19 @@
+{
+  "name": "developpeur/adapter",
+  "description": "PHP app with adapter example",
+  "authors": [
+    {
+      "name": "Lucas Delobelle",
+      "email": "lucas@ld-web.net"
+    }
+  ],
+  "require": {
+    "symfony/dotenv": "^5.2",
+    "vlucas/phpdotenv": "^5.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
